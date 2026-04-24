@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "koozia",
   "author": "10_Kilaton",
-  "website": "https://github.com/10kilaton/microwakeword",
+  "website": "https://github.com/10kilaton/microwakeword/models",
   "model": "./koozia.tflite",
   "version": 2,
   "micro": {
