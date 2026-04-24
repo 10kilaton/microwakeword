@@ -3,7 +3,7 @@
   "wake_word": "koozia",
   "author": "10_Kilaton",
   "website": "https://github.com/10kilaton/microwakeword",
-  "model": "./koozia.tflite",
+  "model": "koozia.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.66,
